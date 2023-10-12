@@ -21,4 +21,5 @@ int main(){
 
     inst++;
     cout<<"The Number of Instructions Executed are: "<<inst;
+    printf("muskaan baby");
 }
